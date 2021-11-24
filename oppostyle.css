@@ -1,0 +1,315 @@
+.mainbody{
+    height: 600px;
+    width: 100%;
+    
+}
+.header{
+    width: 100%;
+    height: 70px;
+    flex: 0;
+    background: black;
+    
+    
+}
+.toptext{
+    color: white;
+    padding-left: 400px;
+    padding-right: 30px;
+    line-height: 69px;
+    text-align: center;
+   
+}
+.currentsite{
+    color: white;
+    
+}
+.site1{
+    padding-right: 20px;
+    
+}
+.linkdecor{
+    text-decoration: none;
+    color:black ;
+    font-size: 30px;
+    cursor: pointer;
+    padding: 73px;
+    line-height: 1cm;
+    text-align: center;
+    
+    
+    
+}
+.navigation{
+    margin-top: -13px;
+    height: 70px;
+    width: 1119px;
+    float: left;
+    background: transparent;
+    
+}
+.innerdivoppo{
+    float: left;
+}.smartphone{
+    font-size: 13px;
+    line-height: 2cm;
+    margin-left:40px;
+    text-align: center;
+    padding-left: 150px;
+    font-weight: lighter;
+    color: #c1b7b7;
+    letter-spacing: 0.05;
+    
+}
+.smartphone:hover{
+    color: rgb(70, 70, 67);
+}
+.iot:hover{
+    color: rgb(70, 70, 67);
+}
+.about:hover{
+    color: rgb(70, 70, 67);
+}
+.color:hover{
+    color: rgb(70, 70, 67);
+}
+.support:hover{
+    color: rgb(70, 70, 67);
+}
+.prdtlink{
+    text-decoration:none;
+    color:#c1b7b7;
+}
+.iot{
+    
+    line-height: 2cm;
+    padding: 30px;
+    text-align: center;
+    font-weight: lighter;
+    color: #c1b7b7;
+    font-size: 13px;
+
+}
+
+
+.about{
+    
+    line-height: 2cm;
+    padding: 15px;
+    text-align: center;
+    font-size: 13px;
+    color: #c1b7b7;
+    font-weight: lighter;
+}
+.color{
+    font-size: 13px;
+    line-height: 2cm;
+    padding: 15px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #c1b7b7;
+    font-weigh: lighter;
+
+}
+.support{
+    font-size: 13px;
+    line-height: 2cm;
+    padding: 15px;
+    text-align: center;
+    font-weight: lighter;
+    color: #c1b7b7;
+    text-rendering: optimizeLegibility;
+    
+}
+.image{
+    max-width: 104%;
+    height: auto;
+}
+
+.clear{
+    clear: both;
+
+}
+.top-banner-nav{
+    margin-top: 10px;
+    position: absolute;
+}
+.third{
+    height: 709px;
+    width: 100%;
+    margin-top: 34px;
+}
+.plaintext{
+    font-size: 40px;
+    margin-left: 52px;
+    float: left;
+    
+}
+.linktext{
+    float: left;
+   padding-left: 906px;
+   margin-top: 59px; 
+   font-size: 17px;
+   font-weight: lighter;
+}
+.view{
+    color: black;
+}
+
+body{
+    margin: 0%;
+}
+
+    
+
+.imageone{
+    padding-left: 53px;
+    float: left;
+    margin-top: 20px;
+}
+.imagetwo{
+    float: left;
+    padding-right: 116px;
+    margin-top: 25px;
+    margin-right: 50px;
+}
+  
+
+.pictures{
+    width: 100%;
+    height: 600px;
+    display: flex;
+    justify-content: space-between;
+}
+.titles{
+    text-decoration: none;
+    color: black;
+    font-size :19px; 
+    font-weight: lighter;
+}
+.new{
+    color: green;
+    font-size: 10px;
+}
+.learnmore{
+    
+    background: black;
+    width: 100px;
+    height: 31px;
+    border-radius: 2px;  
+    border: 2px;
+    cursor: pointer;
+}
+.learnmore:hover{
+    color: rgb(99, 89, 89);
+    
+}
+.learnmore2:hover{
+    color: rgb(161, 143, 143);
+}
+
+.learn{
+    color: white;
+    text-decoration: none;
+    padding-left: 14px;
+    font-size: 15px;
+    line-height: 28px;
+}
+
+.title2{
+    font-weight: lighter;
+    font-size: 16px;
+}
+.titles2{
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    font-weight: lighter;
+
+}
+.tag2{
+    font-size: 10px;
+    color: green;
+}
+.titletext{
+    font-size: 16px;
+    font-weight: lighter;
+}
+.learn2{
+    text-decoration: none;
+    color:white;
+    font-size: 15px;
+    line-height: 28px;
+    padding-left: 14px;
+}
+.learnmore2{
+    border-radius: 2px;
+    width: 100px;
+    height: 31px;
+    background: black;
+}
+
+
+
+
+.fourth{
+    height: 800px;
+    width: 100%;
+    margin-top: 87px;
+    background-color: #F5F5F5;
+}
+.iottext{
+    font-size: 40px;
+    margin-left: 38px;
+    float: left;
+    
+}
+.linktext2{
+    float: left;
+   padding-left: 906px;
+   margin-top: 59px; 
+   font-size: 17px;
+   font-weight: lighter;
+}
+.productview{
+    color: black;
+}
+.images{
+    width: 100%;
+    height: 600px;
+    display: flex;
+    justify-content: space-between;
+}
+.first{
+    margin-left: 50px;
+}
+.second{
+    margin-right: 50px;
+}
+.footer{
+    height: 400px;
+    width: 100%;
+    background: black;
+    margin-top: 75px;
+}
+
+.details{
+    float: left;
+    padding-right: 110px;
+    margin-left: 30px;
+    margin-top: 20px;
+    
+     
+}
+.style{
+    color:white;
+    font-weight: lighter;
+}
+.list{
+    color: grey;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+
+
+
